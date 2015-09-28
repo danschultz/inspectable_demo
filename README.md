@@ -41,16 +41,16 @@ void main() {
   
   // Outputs:
   //
-  // Person {
+  // some_library.Person {
   //   name: Jimmy
   //   age: 65
-  //   address: Address {
+  //   address: some_library.Address {
   //     street: 408 Sherman Ave
   //     city: Palo Alto
   //   }
   // }
   //   
-  // test_reflectable.person.Address {
+  // some_library.Address {
   //   street: 408 Sherman Ave
   //   city: Palo Alto
   // }
